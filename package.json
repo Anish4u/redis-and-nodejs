@@ -1,0 +1,19 @@
+{
+  "name": "reduser",
+  "version": "1.0.0",
+  "description": "simple user management app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app "
+  },
+  "author": "\"anish\"",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "method": "^2.0.0",
+    "method-override": "^3.0.0",
+    "redis": "^2.8.0"
+  }
+}
